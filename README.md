@@ -1,2 +1,2 @@
 # WordPress-Application
-Deploying WordPress App on Kubernetes Cluster
+Deployed WordPress App on Kubernetes Cluster
