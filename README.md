@@ -28,6 +28,7 @@ Set the appropriate storage paths in the YAML files:
    Run:
    ```bash
    kubectl apply -f .
+
 Screenshot of all the pods
 ![Screenshot 2024-11-13 105700](https://github.com/user-attachments/assets/3f0e2e6a-f19c-487b-8ac2-dcb119716c6b)
 After application is successfully deployed and all the pods are up and running and sucessfully opened the website.
